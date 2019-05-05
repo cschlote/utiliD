@@ -11,5 +11,5 @@ If you like the general idea of this library, please help.
 
 ### Tasks
 
-## CI Infrastruction
+#### CI Infrastruction
 We need to set up a CI that can test pull requests, verify coverage, documentation, etc... across multiple platforms and architecture.  That would accelerate any future progress and is considered the highest priority right now.
