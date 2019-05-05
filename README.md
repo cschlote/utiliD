@@ -6,6 +6,7 @@ I'm still working out the precise vision for this library, so bear with me as I 
 ## The Rules
 1. No dependencies whatsoever.
 2. No dynamic heap memory allocation.  Dynamic stack memory allocation is ok, but could probably be avoided too.
+3. All code must be `safe`, `nothrow`, `@nogc`, and compilable with `-dip1000`.
 
 ## Help Wanted
 I am much too busy trying to fix problems with the D compiler and I'm not going to be able to work on this much in the near future.
